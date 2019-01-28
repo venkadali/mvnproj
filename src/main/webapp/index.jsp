@@ -3,14 +3,14 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Hello Java EE Continuous Delivery!</title>
+        <title>Hello Java Continuous Delivery!</title>
     </head>
     <body>
         <h1>Demo Project from Devops</h1>
-        <h1>Hello from SathyaTech</h1>
-        <h1>Hello from SathyaTech</h1>
-        <h1>Hello from SathyaTech</h1>
-        <h1>Hello from SathyaTech</h1>
+        <h1>Hello from VenuTechnologies</h1>
+        <h1>Hello from VenuTechnologies</h1>
+        <h1>Hello from VenuTechnologies</h1>
+        <h1>Hello from VenuTechnologies</h1>
 
 <table width="50%" bgcolor="pink" align="center" border="2">
 
